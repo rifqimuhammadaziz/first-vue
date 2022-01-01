@@ -1,4 +1,5 @@
-# first-vue
+# First VueJS App
+This repository created for learning purpose.
 
 ## Project setup
 ```
